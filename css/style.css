@@ -1,0 +1,56 @@
+body{
+  background-image: url('../img/legno.jpg');
+  background-size: cover;
+  color: white;
+}
+
+hr{
+  border: 2px solid white;
+}
+
+.container{
+  width: 900px;
+  height: 600px;
+  margin: auto;
+}
+
+h1{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+img{
+  width: 70px;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.round{
+  width: 70px;
+  height: 70px;
+  background-color: red;
+  border-radius: 50%;
+  padding: 12px;
+  vertical-align: middle;
+}
+
+.lista{
+  color: black;
+}
+
+.mail{
+  background-color: lightgrey;
+  line-height: 30px;
+  border: 1px solid black;
+}
+
+.mail2{
+  background-color: white;
+  line-height: 30px;
+  border: 1px solid black;
+}
+
+footer{
+  text-align: center;
+  font-size: 30px;
+}
